@@ -1,4 +1,5 @@
-# react-desktop
+# react-desktop 
+https://itnext.io/create-desktop-with-electron-react-and-c-86f9765809b7
 
 Before starting the coding part follow the steps below:
 
