@@ -22,3 +22,15 @@ React will live in Electrons renderer process for that reason we will have to cr
 1. npm i -D @babel/preset-react
 2. npm i -S react react-dom
 3. npm i -D @types/react @types/react-dom
+
+To Run on development:
+1. npm run build:react
+2. npm run build
+3. npm run start
+
+Create a legit EXE file
+Add package
+1. npm i -D electron-packager
+
+To build package to exe:
+1. npm run package-win
